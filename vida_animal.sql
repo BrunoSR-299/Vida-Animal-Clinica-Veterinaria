@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 --Avance 2
---Naydelin villegas portuguez
 
 --CREAR TABLAS
 CREATE TABLE CLIENTE (
